@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: block;
+  flex-wrap: wrap;
+  background-size: cover;
+  background-image: url(images/background-image.jpg);
+  height: 1500px;
+  width: 700px;
+  background-repeat: no-repeat;
+}
+
+main {
+
+  width: 900px;
+  margin: 3rem auto;
+}
